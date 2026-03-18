@@ -140,14 +140,14 @@ DELETE /api/models?id=   # 删除模型
 
 ## 开发路线
 
-### MVP (Week 1-8)
+### MVP (Week 1-8) ✅ 已完成
 
 - [x] 项目初始化
-- [ ] 节点编辑器完善
-- [ ] DCF 模型实现
-- [ ] AKShare 数据集成
-- [ ] AI 助手基础功能
-- [ ] Excel 导入导出
+- [x] 节点编辑器完善
+- [x] DCF 模型实现
+- [x] AKShare 数据集成
+- [x] AI 助手基础功能
+- [x] Excel 导入导出
 
 ### v1.0 (Week 9-16)
 
