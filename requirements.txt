@@ -1,0 +1,9 @@
+# ModelForge Python Dependencies
+# 用于 AKShare 数据服务
+
+# AKShare - 中国金融数据接口
+akshare>=1.12.0
+
+# 数据处理
+pandas>=2.0.0
+numpy>=1.24.0
